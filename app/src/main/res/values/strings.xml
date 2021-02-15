@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Chatee-Kotlin</string>
+    <string name="app_name">Chatee</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+
 </resources>
